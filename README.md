@@ -37,6 +37,10 @@ Or with **Maven** as below:
  
  `java -jar target/auction_house-0.1.jar    `
  
+ 4.Run all the tests
+
+ `./mvnw test`
+  
  
  ## Main technologies and frameworks
 
